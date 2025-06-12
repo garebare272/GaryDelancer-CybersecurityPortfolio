@@ -1,2 +1,0 @@
-# projects
-Self Taught Projects
