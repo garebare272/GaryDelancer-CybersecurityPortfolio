@@ -1,13 +1,13 @@
 ## 🛠️ Skills & Certifications
 
 ### 🔐 Certifications
-- CompTIA A+
-- CompTIA Security+
+- CompTIA Network+ Security+
+- CISSP or CISM (Soon)
 
 ### 🧰 Tools & Technologies
 - Kali Linux, Metasploit, Wireshark
 - VirtualBox, pfSense, Splunk-style SOC Simulators
-- PowerShell, SQL, Microsoft Excel, Trello, Figma
+- PowerShell, SQL, Microsoft Excel, 
 
 ### 🧠 Core Skills
 - Security Policy Development (NIST, CIS)
@@ -17,3 +17,7 @@
 - SOC Monitoring & Alert Triage
 - IT Project Management and Documentation
 
+### 🗣️ Languages
+- Enlgish (Fluent)
+- Spanish (Fluent)
+- Japanese (Beginner)
