@@ -26,5 +26,5 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 ## 🌐 Contact
 
-- 📧 garydelancer@gmail.com
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 garydelancer@gmail.com(garydelancer@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gary-delancer-100933198/)
