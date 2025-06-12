@@ -10,7 +10,7 @@
 - PowerShell, SQL, Microsoft Excel, CMD, Git
 
 ### 🧠 Core Skills
-- Security Policy Development (NIST, CIS, SOC2, ISO 27001< PCI DSS, HIPAA)
+- Security Policy Development (NIST, CIS, SOC2, ISO 27001, PCI DSS, HIPAA)
 - Business Continuity & Disaster Recovery Planning
 - Incident Response and Threat Analysis
 - SQL Database Design & ER Modeling
