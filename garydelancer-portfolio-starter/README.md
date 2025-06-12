@@ -19,7 +19,7 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 ---
 
 ## 🛠️ Skills & Certifications
-- See [skills-certifications.md](./skills-certifications.md)
+- See [skills-certifications.md](./skills-certifications)
 
 ## 📄 Resume
 
