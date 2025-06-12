@@ -1,0 +1,3 @@
+About Me:
+
+Hi, I’m Gary Delancer — a cybersecurity professional with a 🎓 Master’s in Cybersecurity Management from Nova Southeastern University and hands-on experience at Apple as a Technical Specialist. This GitHub portfolio showcases my academic and professional projects across key areas such as policy development, incident response, secure database design, network configuration, and SOC operations. Each project reflects my passion for solving real-world security challenges through structured planning, technical execution, and collaboration. This repository serves as both a reflection of my capabilities and a resource for employers, peers, and mentors to explore my journey in cybersecurity.
