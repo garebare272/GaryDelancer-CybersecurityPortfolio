@@ -33,5 +33,5 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 ## 🌐 Contact
 
-- Email - garydelancer@gmail.com
-- LinkedIn - [Gary Delancer](https://www.linkedin.com/in/gary-delancer-100933198/)
+Email - garydelancer@gmail.com
+LinkedIn - [Gary Delancer](https://www.linkedin.com/in/gary-delancer-100933198/)
