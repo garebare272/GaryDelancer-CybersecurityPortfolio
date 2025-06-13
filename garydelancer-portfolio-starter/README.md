@@ -21,6 +21,8 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 ## 🛠️ Skills & Certifications
 - [See Skills & Certifications](./skills-certifications.md)
 
+---
+
 ## 📄 Resume
 
 📎 [View my resume](https://github.com/user-attachments/files/20711059/GaryDelancer.pdf)
