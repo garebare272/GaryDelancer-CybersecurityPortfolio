@@ -17,7 +17,7 @@ Implemented baseline security policies for a small-to-medium sized business, add
 ## ✅ Outcome
 Gained practical experience in creating usable security policies with business context.
 
-## 📎 *Artifacts
+## 📎 Artifacts
 
 [Executive Report](https://github.com/user-attachments/files/20719093/ISEC695_Team1_ExecReport.docx)
 
