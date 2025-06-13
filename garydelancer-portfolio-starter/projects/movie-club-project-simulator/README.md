@@ -17,4 +17,5 @@ A simulated IT project management exercise involving team collaboration to build
 ## ✅ Outcome
 Reinforced project management fundamentals and stakeholder communication.
 
-📎 *Artifacts include:* Gantt chart, budget spreadsheet, and project charter.
+## 📎 Artifacts
+![MoovieClubScript PNG](https://github.com/user-attachments/assets/d6174fb0-11a0-42e7-8bbe-3bb535c4f850)
