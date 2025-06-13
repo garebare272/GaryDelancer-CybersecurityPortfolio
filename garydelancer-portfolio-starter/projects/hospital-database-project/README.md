@@ -17,4 +17,14 @@ Designed a secure and normalized relational database system for managing patient
 ## ✅ Outcome
 Created a working simulation of a secure hospital database environment.
 
-📎 *Artifacts include:* SQL script, E-R diagram, and schema descriptions.
+## 📎 Artifacts
+![DatabaseFinalProjectE-RDiagram PNG](https://github.com/user-attachments/assets/b9c24128-d768-4507-b25c-1edaf34bd4dd)
+---
+![ERDiagram](https://github.com/user-attachments/assets/f368db33-9dba-4c3c-a6c5-ed53008c9faf)
+---
+![MYSQLworknbench PNG](https://github.com/user-attachments/assets/b2706570-06f4-42d2-b00d-d26e2db0d756)
+---
+![SQLAssignment#1Q#6Screen PNG](https://github.com/user-attachments/assets/b900b207-8e1e-4218-b34e-919266d94041)
+
+
+
