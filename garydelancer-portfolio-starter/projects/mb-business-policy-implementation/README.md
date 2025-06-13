@@ -17,4 +17,6 @@ Implemented baseline security policies for a small-to-medium sized business, add
 ## ✅ Outcome
 Gained practical experience in creating usable security policies with business context.
 
-📎 *Artifacts include:* Policy drafts, reference frameworks, and rationale.
+📎 *Artifacts
+![finalposterimg PNG](https://github.com/user-attachments/assets/c3511cef-e10f-41ac-b34f-b1507e5eab13)
+
