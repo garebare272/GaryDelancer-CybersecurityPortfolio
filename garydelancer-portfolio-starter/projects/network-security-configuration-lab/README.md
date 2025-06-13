@@ -17,4 +17,5 @@ Configured a virtual network environment using pfSense and VirtualBox to simulat
 ## ✅ Outcome
 Improved skills in network defense setup and practical security lab execution.
 
-📎 *Artifacts include:* Network diagram, pfSense configs, screenshots of the lab environment.
+## 📎 Artifacts
+![netconfig](https://github.com/user-attachments/assets/4cb5c075-f64f-4c90-9113-aa0d7fe06211)
