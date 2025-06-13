@@ -17,4 +17,4 @@ A real-world scenario plan developed during ISEC695 for the athletics performanc
 ## ✅ Outcome
 Produced a full security planning document simulating professional standards in operational security.
 
-📎 *Artifacts include:* Executive summary, presentation deck, and planning worksheets.
+## 📎 Artifacts
