@@ -17,5 +17,6 @@ Simulated a Level 1 SOC analyst role using TryHackMe's virtual environment, focu
 ## ✅ Outcome
 Developed a strong foundation in SOC-level monitoring and incident response.
 
-📎 *Artifacts include:* Alert reports, simulated tickets, and walkthrough summaries.
+## 📎 Artifacts
+![SOCDayinTheLifeSim PNG](https://github.com/user-attachments/assets/fe8e7d03-b86a-4f54-892a-49d316bb6092)
 
