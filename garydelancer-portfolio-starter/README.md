@@ -4,7 +4,7 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -18,22 +18,22 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 ---
 
-## 🛠️ Skills & Certifications
+## Skills & Certifications
 [See Skills & Certifications](./skills-certifications.md)
 
 ---
 
-## 📄 Resume
+## Resume
 
-📎 [View my resume](https://github.com/user-attachments/files/20711059/GaryDelancer.pdf)
+[View my resume](https://github.com/user-attachments/files/20711059/GaryDelancer.pdf)
 
 
 
 ---
 
-## 🌐 Contact
+## Contact
 
-📩 Email - garydelancer@gmail.com
+Email - garydelancer@gmail.com
 
 
-🌐 LinkedIn - [Gary Delancer](https://www.linkedin.com/in/gary-delancer-100933198/)
+LinkedIn - [Gary Delancer](https://www.linkedin.com/in/gary-delancer-100933198/)
