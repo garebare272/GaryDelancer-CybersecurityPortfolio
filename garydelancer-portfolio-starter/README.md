@@ -25,7 +25,7 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 ## Resume
 
-[View my resume](https://github.com/user-attachments/files/20711059/GaryDelancer.pdf)
+[View My Resume](https://github.com/user-attachments/files/20711059/GaryDelancer.pdf)
 
 
 
