@@ -5,7 +5,7 @@ This project automates the “Easy Apply” workflow on LinkedIn using Playwri
 
 ## 🎥 Demo Video
 
-![Demo](![AutoApplyGIF](https://github.com/user-attachments/assets/7a904ceb-1515-48a5-8ac8-95ef9cd19af6)
+(![AutoApplyGIF](https://github.com/user-attachments/assets/7a904ceb-1515-48a5-8ac8-95ef9cd19af6)
 
 ## 🛠️ Role & Tools
 - **Role:** Programmer, College Graduate  
