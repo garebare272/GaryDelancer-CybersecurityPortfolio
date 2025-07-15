@@ -19,7 +19,8 @@ Many positions align with my cybersecurity and IT career goals, but applying ind
 Building this solution sharpened my browser‑automation skills, session‑management tactics, and understanding of LinkedIn’s DOM structure. It also reinforced ethical automation practices, including rate‑limiting and respectful platform use.
 
 ## 📌 Files
-- (Main Playwright Script)[<img width="641" height="906" alt="MainCode" src="https://github.com/user-attachments/assets/c0d34a59-2500-42bf-8788-f5bbb9c0098d" />]
+- Main Playwright Script
+- [<img width="320.5" height="453" alt="MainCode" src="https://github.com/user-attachments/assets/c0d34a59-2500-42bf-8788-f5bbb9c0098d" />]
 
 - `README_usage.md` – setup & run instructions  
 - (additional screenshots or logs in `documents/`)
