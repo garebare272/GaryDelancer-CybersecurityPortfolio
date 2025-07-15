@@ -3,6 +3,10 @@
 ## 📜 Overview
 This project automates the “Easy Apply” workflow on LinkedIn using Playwright. It streamlines repetitive job‑application steps so I can target more openings in less time.
 
+## 🎥 Demo Video
+
+![Demo](![AutoApplyGIF](https://github.com/user-attachments/assets/7a904ceb-1515-48a5-8ac8-95ef9cd19af6)
+
 ## 🛠️ Role & Tools
 - **Role:** Programmer, College Graduate  
 - **Tools:** Playwright, Python, VS Code, OpenAI
@@ -31,6 +35,4 @@ Building this solution sharpened my browser‑automation skills, session‑manag
 
 <img width="350.6" height="492" alt="NavigationFilterCode" src="https://github.com/user-attachments/assets/fe59fa62-74fd-498e-bf3b-a0643b22cad9" />
 
-`README_usage.md` – setup & run instructions  
-(additional screenshots or logs in `documents/`)
 
