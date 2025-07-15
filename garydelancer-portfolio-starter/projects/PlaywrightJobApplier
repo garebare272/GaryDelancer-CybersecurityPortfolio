@@ -1,0 +1,17 @@
+## Projects
+
+### LinkedIn Easy Apply Automation  
+*Automated job application bot using Playwright*
+
+Created a Playwright-based automation script that streamlines the LinkedIn job search and application process by automatically applying to jobs with the Easy Apply option. This tool supports filters for experience levels (intern, entry-level, associate) and handles multi-step application forms, including submission and confirmation steps, saving significant time and effort in job hunting.
+
+**Key highlights:**  
+- Automates LinkedIn login, job search, and filter application  
+- Navigates and submits Easy Apply job forms, including final confirmation clicks  
+- Logs application progress and status for tracking  
+- Built with Playwright and Node.js for robust, scalable automation  
+
+[View the full code and documentation →](https://github.com/garebare272/GaryDelancer-CybersecurityPortfolio/tree/main/linkedin-easyapply-automation) *(Add your actual folder or repo link here)*
+
+---
+
