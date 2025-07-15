@@ -15,7 +15,7 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 |  [Movie Club Project Simulator](./projects/movie-club-project-simulator) | Simulated IT project lifecycle and documentation using realistic budgeting, scheduling, and stakeholder roles. |
 |  [TryHackMe SOC Simulator](./projects/tryhackme-soc-simulator) | Practiced real-time threat detection and analysis using logs and SIEM-style alerts in a lab setting. |
 |  [Cyberbit Range Lab](./projects/cyberbit-range-lab) | Responded to simulated enterprise cyberattacks in a live virtual range to test defensive skills and teamwork. |
-|  [Playwright Automated Job Applier](./) | Used VSCode/Python/Playwright to automate the job application submittal process. |
+|  [Playwright Automated Job Applier](./projects/auto-easy-apply) | Used VSCode/Python/Playwright to automate the job application submittal process on LinkedIn. |
 
 ---
 
