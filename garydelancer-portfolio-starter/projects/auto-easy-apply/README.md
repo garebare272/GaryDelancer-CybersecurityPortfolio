@@ -20,8 +20,15 @@ Building this solution sharpened my browser‑automation skills, session‑manag
 
 ## 📌 Files
 - Main Playwright Script
-- [<img width="320.5" height="453" alt="MainCode" src="https://github.com/user-attachments/assets/c0d34a59-2500-42bf-8788-f5bbb9c0098d" />]
-
+- 
+- [<img width="320.5" height="453" alt="MainCode" src="https://github.com/user-attachments/assets/c0d34a59-2500-42bf-8788-f5bbb9c0098d" />[
+- Configuration Script
+-
+- [<img width="464" height="247" alt="ConfigCode" src="https://github.com/user-attachments/assets/f2e0de03-1333-4cd7-84cb-ac0d0c69b0b3" />]
+- Navigation and Job Filtering Script
+-
+- [<img width="350.6" height="492" alt="NavigationFilterCode" src="https://github.com/user-attachments/assets/fe59fa62-74fd-498e-bf3b-a0643b22cad9" />]
+-
 - `README_usage.md` – setup & run instructions  
 - (additional screenshots or logs in `documents/`)
 
