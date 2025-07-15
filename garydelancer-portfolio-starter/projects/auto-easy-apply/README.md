@@ -26,6 +26,7 @@ Building this solution sharpened my browser‑automation skills, session‑manag
 # Configuration Script
 
 <img width="464" height="247" alt="ConfigCode" src="https://github.com/user-attachments/assets/f2e0de03-1333-4cd7-84cb-ac0d0c69b0b3" />
+
 # Navigation and Job Filtering Script
 
 <img width="350.6" height="492" alt="NavigationFilterCode" src="https://github.com/user-attachments/assets/fe59fa62-74fd-498e-bf3b-a0643b22cad9" />
